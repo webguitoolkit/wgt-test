@@ -1,0 +1,15 @@
+<project name="webguitoolkit-archetype">
+    <version position="left"/>
+    <publishDate position="navigation-bottom" format="MM-dd-yyyy"/>
+
+    <poweredBy>
+      <logo img="images/WGT100.gif" name="webguitoolkit-archetype" href="http://webguitoolkit.org/" />
+    </poweredBy>
+    <body>
+        <menu name="Overview">
+          <item name="Project home" href="index.html"/>
+        </menu>
+        <menu ref="modules"  />
+        <menu ref="reports" />
+    </body>
+</project>
